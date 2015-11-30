@@ -10,5 +10,5 @@ Our team members are:
 [@vknight](https://github.com/morfies)  
 [@ziliang](https://github.com/morfies)  
 
-# Artile Lists
+# Article Lists
 [大型软件系统架构的一些原则](https://github.com/morfies/tutorial/wiki/%E5%A4%A7%E5%9E%8B%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E7%9A%84%E4%B8%80%E4%BA%9B%E5%8E%9F%E5%88%99) -- [@morfies](https://github.com/morfies)
